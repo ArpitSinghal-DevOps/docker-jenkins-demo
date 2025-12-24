@@ -2,7 +2,7 @@
 Hands-on practices on 25/12/2025 from linode account in Local system. 
 
 🔥 **Project Title
-CI/CD Pipeline for Automated Docker Deployment using Jenkins + Webhooks**
+CI/CD Pipeline for Automated Docker Deployment using Jenkins + GitHub Webhooks**
 
 🧠 Project Summary
 Designed and implemented an end-to-end CI/CD pipeline using Jenkins and Docker to automatically build and deploy a containerized web application on a Linux server. Integrated GitHub for source control and resolved real-world permission and port-conflict issues during deployment.
