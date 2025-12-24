@@ -4,7 +4,7 @@ Hands-on practices on 25/12/2025 from linode account in Local system.
 🔥 **Project Title
 CI/CD Pipeline for Automated Docker Deployment using Jenkins**
 
-🧠 Project Summary (CV ke liye – 2–3 lines)
+🧠 Project Summary
 Designed and implemented an end-to-end CI/CD pipeline using Jenkins and Docker to automatically build and deploy a containerized web application on a Linux server. Integrated GitHub for source control and resolved real-world permission and port-conflict issues during deployment.
 
 🛠️ Tools & Technologies Used
@@ -61,7 +61,7 @@ Port conflict handling during deployment
 
 Real-world Linux service troubleshooting
 
-🚧 Challenges Faced & Solutions (INTERVIEW GOLD)
+🚧 Challenges Faced & Solutions
 Jenkins service startup failure → Resolved by fixing Java version and port conflicts
 
 Docker permission denied error → Solved by adding Jenkins user to Docker group
